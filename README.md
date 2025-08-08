@@ -16,8 +16,9 @@ This project demonstrates core PM skills including scope definition, scheduling,
 
 - [Project Charter](charter.md): High-level project summary, objectives, stakeholders
 - [Scope Statement](scope.md): Project boundaries, deliverables, and exclusions
-- [Timeline & Gantt Chart](timeline.xlsx): Project schedule and milestones
-- [Risk Register](risk-register.xlsx): Identified risks and mitigation strategies
+- [Timeline & Gantt Chart (Excel)](timeline.xlsx): Project schedule and milestones  
+  ![Gantt Chart](images/gantt_chart.png)
+- [Risk Register](risk-register.md): Identified risks and mitigation strategies
 - [Stakeholder Register](stakeholder-register.md): List of key stakeholders and interests
 - [Work Breakdown Structure (WBS)](wbs.md): Hierarchical list of tasks and deliverables
 - [Communications Plan](communications-plan.md): How project info will be shared
@@ -26,9 +27,9 @@ This project demonstrates core PM skills including scope definition, scheduling,
 
 ## Tools Used
 
-- Microsoft Excel/Google Sheets (timeline, risk register)
+- Microsoft Excel / Google Sheets (timeline, risk register)
 - Markdown (project docs)
-- Optional: Free Gantt chart tools for screenshots
+- Free Gantt chart tools for screenshots (optional)
 
 ---
 
@@ -39,5 +40,3 @@ This project demonstrates core PM skills including scope definition, scheduling,
 - Effective stakeholder and risk management
 
 ---
-
-*Created by Ana/Snezhana Ismailaj*
